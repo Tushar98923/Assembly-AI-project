@@ -1,0 +1,27 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Build output
+client/build/
+
+# Environment files
+server/.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Uploaded files
+server/uploads/
+
+# Misc
+client/.DS_Store
+server/.DS_Store
