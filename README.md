@@ -137,6 +137,4 @@ Speaker 2: Thanks! Let's review the timeline.
 
 ---
 
-<div align="center">
-  <sub>Made with ❤️ by your team. Contributions welcome!</sub>
-</div>
+
